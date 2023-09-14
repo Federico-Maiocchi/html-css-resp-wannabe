@@ -1,5 +1,5 @@
 /* TABLET */
-@media (max-width:768px) {
+@media (max-width: 768px) {
     /* HEADER */
     .container {
         width: 768px;
@@ -7,9 +7,13 @@
 }
 
 /*MOBILE*/
-@media screen (max-width:480px) {
+@media (max-width: 480px) {
     /* HEADER */
     .container {
         width: 480px;
+    }
+
+    .lessons .col {
+        width: 100% ;
     }
 }
