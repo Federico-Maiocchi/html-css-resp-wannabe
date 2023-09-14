@@ -10,7 +10,7 @@
 @media (max-width: 480px) {
     
     .container {
-        width: 480px;
+        width: 100%;
     }
 
     .row {
@@ -30,9 +30,14 @@
     /*LESSON SECTION*/
     .lessons .col {
         width: 100% ;
+        padding-bottom: 40px;
     }
 
     /* STEPS SECTION */
+
+    .steps .row  {
+        padding: 10px 15px;
+    }
 
     .steps {
         margin:0px ;
