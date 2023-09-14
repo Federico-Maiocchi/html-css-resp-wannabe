@@ -13,6 +13,11 @@
         width: 480px;
     }
 
+    .row {
+        flex-wrap: wrap;
+    }
+
+    /*LESSON*/
     .lessons .col {
         width: 100% ;
     }
